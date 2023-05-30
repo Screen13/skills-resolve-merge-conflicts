@@ -1,3 +1,1 @@
-# References
-
-* octocat 1 😈
+My reference is better than yours.
